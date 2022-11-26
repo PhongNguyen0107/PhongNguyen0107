@@ -30,7 +30,7 @@
 - 📫 How to reach me: nguyenlephong1997@gmail.com
 - 📫 CV: https://nguyenlephong.github.io
 - 📫 My Tools: https://nguyenlephong.github.io/tools
-- 📫 Youtube Channel: https://www.youtube.com/channel/UCVT2aPzoLT4Qj64VpDBvxuw
+- 📫 Youtube Channel: [https://www.youtube.com/@nguyenlephong](https://www.youtube.com/@nguyenlephong)
 
 ### 🛠 &nbsp;Languages and Tools
 
